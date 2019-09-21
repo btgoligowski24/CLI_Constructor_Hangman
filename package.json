@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/btgoligowski24/CLI_Constructor_Hangman/issues"
   },
-  "homepage": "https://github.com/btgoligowski24/CLI_Constructor_Hangman#readme"
+  "homepage": "https://github.com/btgoligowski24/CLI_Constructor_Hangman#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
 }
