@@ -1,0 +1,2 @@
+let word = require("./word");
+
